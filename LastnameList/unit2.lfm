@@ -1,0 +1,21 @@
+object Form2: TForm2
+  Left = 1208
+  Height = 240
+  Top = 131
+  Width = 320
+  Caption = 'Решение 2 ( Упрощенное:) )'
+  ClientHeight = 240
+  ClientWidth = 320
+  DesignTimePPI = 120
+  LCLVersion = '2.2.2.0'
+  object Memo1: TMemo
+    Left = 8
+    Height = 200
+    Top = 8
+    Width = 288
+    Lines.Strings = (
+      'Введите фамилию'
+    )
+    TabOrder = 0
+  end
+end
